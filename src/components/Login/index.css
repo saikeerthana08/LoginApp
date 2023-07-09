@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.login-button {
+  border-radius: 10px;
+  border-width: 0;
+  background-color: #f8fafc;
+  height: 35px;
+  width: 95px;
+  color: #303150;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+}
